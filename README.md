@@ -1,4 +1,4 @@
 # jogo-apertadinho
 
-<h1> Desenvolvendo o Jogo Apertadinho</h1>
+<h3> Desenvolvendo o Jogo Apertadinho</h3>
 <p> Quem perder, bebe !!!</p>
